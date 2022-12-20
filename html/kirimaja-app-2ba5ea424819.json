@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kirimaja-app",
+  "private_key_id": "2ba5ea424819f76b1e0dde86a9755962782fb733",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDKoGNiR6p+16WW\n/j92M5KvCnH9iL7QsQuSl3YiKsXIBeNtIEsdC87VIZkqgbeWjrqc63jQ4WR/fdfn\nOfUpy4ht2MwHrUMIchyZ8bsJk9nPAN8RaYtQdw4xItvJUI2mniRUUs7Hb8n5Krby\nP6ED7mUAvnEQf3P3RNjtJ4ZAuuMGOVwx6J5RQWqNTturPX4wbJFvj7e3lUz6CUv7\nagCph6slwi8t0Q1pbNHgDcb7IsdOLa20TC8I6vCbVIig7ijp5GYzvpAgW6Nqqfi0\nmFNWH2Od2mopWk7e2r3G0oz4lgstcbW6ZEyK2qoz36KHWlMKFiJLBOQXNJ00tJvv\nLAsoiz4NAgMBAAECggEATx84D616ZxNgBsj7EPXshktm3aCjGiy4HyLjr03Sc1vR\nRdCBZDMzLchz3cRPYwwS1KmiQLZyntIOF61rDUn72SD58tl2PnsIrhhVd9TzDUEC\n2fLDwsTqlsdM2ZyJ45EHEKJROlFtpc1HKOstvbI+YH78+Xs7VkfdCSYQ53/SnJ/g\nwaWSpaZh5EGGXR8S7D8WCkcakszj1nf1wzTB/cvBna0cMUbOJc0dS8a+MzHH3h8G\nPYuZr6pu98mKtcFWccxrScndKXZjK43e870cRDNiZ4E6+jw1ZVAPc2iN3wG9zESO\ns0OMf+h9Sf6sKWWxue6h9JPZ6Z7nRjCgRm3/Pw+ARQKBgQD5k4oABobzKgmAi2vb\nE/Di8At4d/1G+6IMvwx7YKEaCWy8p5vp/aTSy2ayuOfOPAcSqLu/fEWc7mjqrQIt\nCBiKxfyG7nC8UZqlH5zBgBdLQq2/lFxSloJbZHYMcIqXactmbm57PAUWgHQkcK4k\nz+41JMHKPazs7c+KCXRff3qd4wKBgQDP138TqTOIk9LmRtkmO/GwtIs2BCDYWqhj\nOg8uXmF3RvtEWBn0XlBadsG6jswnQhQn0afKqKT6+2myRFmAG22NmWv55XcYfu9u\nIpyi4QJMC6FSkP+1s9vF2sDssZ+L1Sb5rawN1av6+OoqXlG3sHGnRdXMMpz6JFf5\nxK7hdXB3TwKBgQDjfC/VRh3Llw2CNZLh5ZMzx0ktTXF3OfXDWICwFKvDZ8PNUZkz\n9xY9bVj2nsPrn5tyzooTR9rL6COJhJjvIun70+sRslTf0iH7UI05ct/IocZtUXW1\ncarwUumm/Q3WZYAYpZ/ehB6/G+bBMFQLCdw+ZHqfNQhiDYGWeHeydCf3sQKBgQCV\n4pRz+0t8rQ4knucumYAcrLbQB34gSJCyrkYQbGPhfsDpcpeVEQbllkrzXNOBZDfg\n12Mn1SLVFMYOlxfsONtyiDfECWUvtyq3xCItnBLqAGEgiAzAXqqZLr5+c0HZt6fZ\n2xL/Dx5taWCFmWtZCteLh+M81Ss7gUYoi1yKnwSyJQKBgEh+R0ZIdnQoJvtzQgz+\nG5YiyZB7JkT6cXxTscGcY358/V5iLx60Jn8XmXW8j3OLILdMhNmF90dUBhXN2gjj\ngpprZCmDPmBistapQ1citpSet60IVeQFt5jyKAvBN0TkIJabjAWOvM9mAPHNwocm\nVc+BhDLKKO/rMK+0ofcSuTe1\n-----END PRIVATE KEY-----\n",
+  "client_email": "kirimaja-backend-fcm@kirimaja-app.iam.gserviceaccount.com",
+  "client_id": "116686305630231626183",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kirimaja-backend-fcm%40kirimaja-app.iam.gserviceaccount.com"
+}

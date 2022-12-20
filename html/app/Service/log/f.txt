@@ -1,0 +1,33 @@
+* About to connect() to api.kaspro.id port 443 (#95)
+*   Trying 149.129.241.61...
+* Connected to api.kaspro.id (149.129.241.61) port 443 (#95)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* NSS: client certificate from file
+* 	subject: CN=kirimaja,OU=IT,O=PT Aerojasa Cargo,L=Jakarta,ST=Jakarta,C=ID,E=info@aeroexpress.co.id
+* 	start date: May 25 09:18:11 2021 GMT
+* 	expire date: May 25 09:18:11 2023 GMT
+* 	common name: kirimaja
+* 	issuer: CN=kirimaja,OU=IT,O=PT Aerojasa Cargo,L=Jakarta,ST=Jakarta,C=ID,E=info@aeroexpress.co.id
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+* Server certificate:
+* 	subject: CN=*.kaspro.id,OU=EssentialSSL Wildcard,OU=Domain Control Validated
+* 	start date: Aug 29 00:00:00 2019 GMT
+* 	expire date: Aug 29 23:59:59 2021 GMT
+* 	common name: *.kaspro.id
+* 	issuer: CN=Sectigo RSA Domain Validation Secure Server CA,O=Sectigo Limited,L=Salford,ST=Greater Manchester,C=GB
+> GET /ST5q6XUL1L/250124353282/partner/subscriber/wallet? HTTP/1.1
+Host: api.kaspro.id
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer G0xs1+FFdegwb3b/i/GyuHzbEYkR2F02AIixrJiHgm7mSSxSDPg8qt9pPnnEcdoPtHQbkmSIGZhqVJBk7rC++DgBm9UkOQdP3f+Yl0D6AsCDzvrmO7F7BlskPP4FoY8WWwXpGrLQRkvg7/z3A3VRrJOUnVfAzuTMJpV+VL6MT93Jq+IhM3u4legXE3pyKT3A3cADk7RpTDNAFV4xV21W020RMbhFLFo2O9avWnYGHsI=
+
+< HTTP/1.1 401 Unauthorized
+< Date: Fri, 28 May 2021 00:30:26 GMT
+< Server: Apache
+< Strict-Transport-Security: max-age=31536000; includeSubDomains
+< Content-Type: application/json
+< Content-Length: 45
+< X-Powered-By: Undertow/1
+< 
+* Connection #95 to host api.kaspro.id left intact
